@@ -1,0 +1,13 @@
+C:\Users\winicius\Documents\atividades5\bin\Debug\netcoreapp3.1\atividades5.exe
+C:\Users\winicius\Documents\atividades5\bin\Debug\netcoreapp3.1\atividades5.deps.json
+C:\Users\winicius\Documents\atividades5\bin\Debug\netcoreapp3.1\atividades5.runtimeconfig.json
+C:\Users\winicius\Documents\atividades5\bin\Debug\netcoreapp3.1\atividades5.runtimeconfig.dev.json
+C:\Users\winicius\Documents\atividades5\bin\Debug\netcoreapp3.1\atividades5.dll
+C:\Users\winicius\Documents\atividades5\bin\Debug\netcoreapp3.1\atividades5.pdb
+C:\Users\winicius\Documents\atividades5\obj\Debug\netcoreapp3.1\atividades5.csprojAssemblyReference.cache
+C:\Users\winicius\Documents\atividades5\obj\Debug\netcoreapp3.1\atividades5.AssemblyInfoInputs.cache
+C:\Users\winicius\Documents\atividades5\obj\Debug\netcoreapp3.1\atividades5.AssemblyInfo.cs
+C:\Users\winicius\Documents\atividades5\obj\Debug\netcoreapp3.1\atividades5.csproj.CoreCompileInputs.cache
+C:\Users\winicius\Documents\atividades5\obj\Debug\netcoreapp3.1\atividades5.dll
+C:\Users\winicius\Documents\atividades5\obj\Debug\netcoreapp3.1\atividades5.pdb
+C:\Users\winicius\Documents\atividades5\obj\Debug\netcoreapp3.1\atividades5.genruntimeconfig.cache
